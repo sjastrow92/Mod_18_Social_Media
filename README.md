@@ -33,7 +33,8 @@ To run this project, install it locally using npm install
 
 Walkthrough Video
 
-[Click me to see the demo video!](https://www.awesomescreenshot.com/video/8271915?key=4160443a4094cf7c0af7d25991652853)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/tKkNucbbZmw/0.jpg)](https://www.youtube.com/watch?v=tKkNucbbZmw)
+
 
 
 ## License
